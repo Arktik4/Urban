@@ -71,7 +71,7 @@ is_big = x >= 3000
 
 x = my_poem[-1]
 print(x)
-my_list = [2, 3,4, 5, 6,]
+my_list = [2, 3, 4, 5, 6,]
 
 # reformat кода
 
